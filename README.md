@@ -49,9 +49,3 @@ npm run build
 # Deploy /dist to Vercel, Netlify, Cloudflare Pages, etc.
 ```
 
-## Notes
-
-- Stellar text memos are limited to **28 bytes** — the first 28 characters of the wish are stored on-chain. The full wish text is displayed from the memo.
-- The app reads from Horizon public endpoint — no backend needed.
-- Refresh happens automatically every 30 seconds.
-- Min 0.1 XLM, recommended 0.5–1 XLM per wish.
