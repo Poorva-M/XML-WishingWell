@@ -3,6 +3,7 @@ Cast your wish onto the Stellar blockchain — permanently, for the price of a c
 ---
 
 ## What it does
+
 Users connect their **Freighter wallet**, type a wish (up to 100 chars), choose an XLM amount (min 0.1 XLM), and submit. The wish is stored as a **Stellar transaction memo** on-chain. All wishes are displayed on a public wall, sortable by top contributors or most recent.
 ---
 
