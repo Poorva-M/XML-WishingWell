@@ -41,13 +41,14 @@ npm run build
 ---
 
 ## List of 5+ users wallet addresses:
-1. User 1: //wallet addresses
-2. User 2: //wallet addresses
-3. User 3: //wallet addresses
-4. User 4: //wallet addresses
-5. User 5: //wallet addresses
+1. User 1: GAWOCI3JKKRFYYUJGOR7I3LZM6BMFCLUBN3EXBNLRISO6XWW3YDSTHDU
+2. User 2: GBQQRG45YXIOLM7UR2W7DN2XP7SZVIDY4D5NWCUMRX7CEXJVVFGU26PB
+3. User 3: GBLUMAX4IIPS54AIGD5WXRRAXISG4HLV3BE3YR3SQAD3GZSXRTVJY5GI
+4. User 4: GDBIJAOFPMGQWDUUQTJ3YFHI44MWHQHPALJQG7ZDA7D5WWEDKJYA4OHA
+5. User 5: GDBIJAOFPMGQWDUUQTJ3YFHI44MWHQHPALJQG7ZDA7D5WWEDKJYA4OHA
+6. User 6 : GAEXD3KCFE3CBWDGSNQ5A624AMH74B4ONAEEF2QRUWHX6SOTTAVUGKRV
 
 
 ## Feedback Documentation:
-//link here
+[//link here](https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing)
 ---
