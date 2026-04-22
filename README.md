@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1PpTfuoaEKbCJWncrJMtIAPB6u8ija7vu/view?usp=drive
 
 ## 📲Mobile Resposinve:
 
-![Mobile Responsive App](<Mobile Responsive.jpeg>)
+<img width="1177" height="1022"> ![Mobile Responsive App](<Mobile Responsive.jpeg>)
 
 ---
 
