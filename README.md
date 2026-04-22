@@ -5,13 +5,10 @@ Cast your wish onto the Stellar blockchain — permanently, for the price of a c
 ## What it does
 Users connect their **Freighter wallet**, type a wish (up to 100 chars), choose an XLM amount (min 0.1 XLM), and submit. The wish is stored as a **Stellar transaction memo** on-chain. All wishes are displayed on a public wall, sortable by top contributors or most recent.
 
-
-<<<<<<< HEAD
 =======
 
->>>>>>> 7ffc889d3e5ca61a6cca2a2d4a55fbdf60e6067e
-## Live Demo Link(On Vercel):
-https://xml-wishing-well.vercel.app
+
+## Live Demo Link(On netlify):https://xlm-wishing-well-poorva.netlify.app/
 
 
 ## Demo Link:
@@ -31,11 +28,10 @@ npm install
 npm run dev
 ```
 
-<<<<<<< HEAD
 
 ## ⚠️ Important: Set your well address
 =======
->>>>>>> 7ffc889d3e5ca61a6cca2a2d4a55fbdf60e6067e
+
 
 ## ⚠️ Important: Set your well address
 In `src/stellar.js`, replace `WELL_ADDRESS` with **your own Stellar public key**. This is the address that receives all XLM offerings.
@@ -65,7 +61,7 @@ npm run build
 # Deploy /dist to Vercel, Netlify, Cloudflare Pages, etc.
 ```
 
-<<<<<<< HEAD
+
 ## List of 5+ users wallet addresses:
 1. User 1: //wallet addresses
 2. User 2: //wallet addresses
@@ -88,4 +84,4 @@ npm run build
 
 ## Feedback Documentation:
 //link here
->>>>>>> 7ffc889d3e5ca61a6cca2a2d4a55fbdf60e6067e
+
