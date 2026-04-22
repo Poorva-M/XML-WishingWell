@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback, useRef } from 'react'
 import './app.css'
 import Starfield from './Starfield.jsx'
 import WishCard from './WishCard.jsx'
-import { useWallet } from './useWallet.js'
+import { useWallet } from './useWallet.jsx'
 import { buildWishTransaction, fetchWishes, WELL_ADDRESS, MAX_WISH_LENGTH } from './stellar.js'
 
 const PRESETS = ['0.1', '0.5', '1', '5']
@@ -321,7 +321,7 @@ export default function App() {
             </a>
             . Offerings go to{' '}
             <a
-              href={`https://stellar.expert/explorer/public/account/${WELL_ADDRESS}`}
+              href={`https://stellar.expert/explorer/testnet/account/${WELL_ADDRESS}`}
               target="_blank"
               rel="noopener noreferrer"
             >

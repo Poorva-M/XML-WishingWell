@@ -1,24 +1,32 @@
 # ✦ XLM Wishing Well
-
 Cast your wish onto the Stellar blockchain — permanently, for the price of a coin.
 
-## What it does
 
+## What it does
 Users connect their **Freighter wallet**, type a wish (up to 100 chars), choose an XLM amount (min 0.1 XLM), and submit. The wish is stored as a **Stellar transaction memo** on-chain. All wishes are displayed on a public wall, sortable by top contributors or most recent.
 
-## Tech stack
 
+## Live Demo Link(On Vercel):
+https://xml-wishing-well.vercel.app
+
+
+## Demo Link:
+https://drive.google.com/file/d/1PpTfuoaEKbCJWncrJMtIAPB6u8ija7vu/view?usp=drive_link
+
+
+## Tech stack
 - **React + Vite** — frontend
 - **Freighter API** — wallet connection & transaction signing
 - **Stellar SDK** — transaction building (payment + memo)
 - **Stellar Horizon** — fetching wishes from blockchain
 
-## Setup
 
+## Setup
 ```bash
 npm install
 npm run dev
 ```
+
 
 ## ⚠️ Important: Set your well address
 
@@ -30,28 +38,32 @@ export const WELL_ADDRESS = 'YOUR_STELLAR_PUBLIC_KEY_HERE'
 
 Generate a Stellar keypair at https://stellar.org/laboratory
 
-## How wishes work
 
+## How wishes work
 1. User types a wish + selects XLM amount
 2. App builds a Stellar payment transaction with the wish as a **text memo** (first 28 chars — Stellar's limit)
 3. Freighter signs and submits to the Public Stellar Network
 4. The wish lives on-chain forever
 5. The wishes wall reads all transactions sent to `WELL_ADDRESS` via Horizon API
 
-## Freighter Wallet
 
+## Freighter Wallet
 Install from https://www.freighter.app/
 
-## Deploy
 
+## Deploy
 ```bash
 npm run build
 # Deploy /dist to Vercel, Netlify, Cloudflare Pages, etc.
 ```
 
-## Notes
+## List of 5+ users wallet addresses:
+1. User 1: //wallet addresses
+2. User 2: //wallet addresses
+3. User 3: //wallet addresses
+4. User 4: //wallet addresses
+5. User 5: //wallet addresses
 
-- Stellar text memos are limited to **28 bytes** — the first 28 characters of the wish are stored on-chain. The full wish text is displayed from the memo.
-- The app reads from Horizon public endpoint — no backend needed.
-- Refresh happens automatically every 30 seconds.
-- Min 0.1 XLM, recommended 0.5–1 XLM per wish.
+
+## Feedback Documentation:
+//link here
