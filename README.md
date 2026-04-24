@@ -57,20 +57,7 @@ Install from https://www.freighter.app/
 
 ---
 
-
-### Table 1: Onboarded Users
-
- Aditi M | aditidmhaske17@gmail.com | GAWO......HDU |
-| Gayatri Deshmukh | ggdeshmukh12107@gmail.com | GBQQ.....6PB |
-| janhavi lipare| janhavilipare9948@gmail.com | GBLU......5GI |
-| Jadhav Vaibhavi | vaibhavijadhav326@gmail.com | GDBI....OHA |
-| Nayan Palande  | npalande2106@gmail.com | GDBI.....OHA |
-| Janhavi Mane  | janhavimane123@gmail.com | GAEX....GKRV |
-
-
----
-
-### Table 2: User Feedback & Implementation
+### Table : User Feedback & Implementation
 
 | User Name | User Email | User Wallet Address | User Feedback | 
 |-----------|------------|---------------------|---------------|
@@ -84,7 +71,11 @@ Install from https://www.freighter.app/
 ---
 
 ### 🔗 Google Form Link
-[Click here to view the feedback form](https://forms.gle/Wza36SJ6Heif3iDu5)
+(https://forms.gle/Wza36SJ6Heif3iDu5)
+
+---
 
 ### 📊 Response Sheet (Public)
-[Click here to view responses](https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing)
+
+---
