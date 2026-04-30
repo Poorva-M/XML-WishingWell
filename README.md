@@ -8,6 +8,7 @@ Users connect their **Freighter wallet**, type a wish (up to 100 chars), choose 
 
 ## Live Demo Link:
 https://xlm-wishing-well-poorva.netlify.app/
+<<<<<<< HEAD
 
 ---
 
@@ -16,6 +17,8 @@ https://xlm-wishing-well-poorva.netlify.app/
 ## 🌐Live Demo Link:
 https://xlm-wishing-well-poorva.netlify.app/
 
+=======
+>>>>>>> cd0099e (Update README.md)
 ---
 
 
@@ -38,8 +41,11 @@ https://drive.google.com/file/d/1PpTfuoaEKbCJWncrJMtIAPB6u8ija7vu/view?usp=drive
 - **Stellar SDK** — transaction building (payment + memo)
 - **Stellar Horizon** — fetching wishes from blockchain
 
----
+<<<<<<< HEAD
+=======
 
+>>>>>>> cd0099e (Update README.md)
+---
 
 
 ## 💻Setup:
@@ -52,16 +58,23 @@ npm install
 ```bash
 npm run dev
 ```
+<<<<<<< HEAD
 
 3. Freighter Wallet
 Install from https://www.freighter.app/
 
 
 4. Deploy
+=======
+
+3. Deploy
+
+>>>>>>> cd0099e (Update README.md)
 ```bash
 npm run build
 # Deploy /dist to Netlify
 ```
+<<<<<<< HEAD
 
 ---
 
@@ -91,3 +104,43 @@ https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5
 
 ---
 
+=======
+
+4. Freighter Wallet
+Install from https://www.freighter.app/
+
+
+---
+
+
+### Table 1: Onboarded Users
+
+ Aditi M | aditidmhaske17@gmail.com | GAWO......HDU |
+| Gayatri Deshmukh | ggdeshmukh12107@gmail.com | GBQQ.....6PB |
+| janhavi lipare| janhavilipare9948@gmail.com | GBLU......5GI |
+| Jadhav Vaibhavi | vaibhavijadhav326@gmail.com | GDBI....OHA |
+| Nayan Palande  | npalande2106@gmail.com | GDBI.....OHA |
+| Janhavi Mane  | janhavimane123@gmail.com | GAEX....GKRV |
+
+
+---
+
+### Table 2: User Feedback & Implementation
+
+| User Name | User Email | User Wallet Address | User Feedback | 
+|-----------|------------|---------------------|---------------|
+| Aditi M | aditidmhaske17@gmail.com | GAWO......HDU | "very good" |
+| Gayatri Deshmukh | ggdeshmukh12107@gmail.com | GBQQ.....6PB | "fabulous" |
+| janhavi lipare| janhavilipare9948@gmail.com | GBLU......5GI | "app is soo good , i liked the idea of app" |
+| Jadhav Vaibhavi | vaibhavijadhav326@gmail.com | GDBI....OHA | "Really a nice website and UI is also nice ." |
+| Nayan Palande  | npalande2106@gmail.com | GDBI.....OHA | "Easy to use." |
+| Janhavi Mane  | janhavimane123@gmail.com | GAEX....GKRV | "Easy to use." |
+
+---
+
+### 🔗 Google Form Link
+[Click here to view the feedback form](https://forms.gle/Wza36SJ6Heif3iDu5)
+
+### 📊 Response Sheet (Public)
+[Click here to view responses](https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing)
+>>>>>>> cd0099e (Update README.md)
