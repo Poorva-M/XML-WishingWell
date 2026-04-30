@@ -8,7 +8,6 @@ Users connect their **Freighter wallet**, type a wish (up to 100 chars), choose 
 
 ## Live Demo Link:
 https://xlm-wishing-well-poorva.netlify.app/
-<<<<<<< HEAD
 
 ---
 
@@ -17,8 +16,7 @@ https://xlm-wishing-well-poorva.netlify.app/
 ## 🌐Live Demo Link:
 https://xlm-wishing-well-poorva.netlify.app/
 
-=======
->>>>>>> cd0099e (Update README.md)
+
 ---
 
 
@@ -41,10 +39,7 @@ https://drive.google.com/file/d/1PpTfuoaEKbCJWncrJMtIAPB6u8ija7vu/view?usp=drive
 - **Stellar SDK** — transaction building (payment + memo)
 - **Stellar Horizon** — fetching wishes from blockchain
 
-<<<<<<< HEAD
-=======
 
->>>>>>> cd0099e (Update README.md)
 ---
 
 
@@ -58,23 +53,21 @@ npm install
 ```bash
 npm run dev
 ```
-<<<<<<< HEAD
+
 
 3. Freighter Wallet
 Install from https://www.freighter.app/
 
 
 4. Deploy
-=======
+
 
 3. Deploy
 
->>>>>>> cd0099e (Update README.md)
 ```bash
 npm run build
 # Deploy /dist to Netlify
 ```
-<<<<<<< HEAD
 
 ---
 
@@ -143,4 +136,3 @@ Install from https://www.freighter.app/
 
 ### 📊 Response Sheet (Public)
 [Click here to view responses](https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing)
->>>>>>> cd0099e (Update README.md)
