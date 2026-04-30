@@ -61,9 +61,6 @@ Install from https://www.freighter.app/
 
 4. Deploy
 
-
-3. Deploy
-
 ```bash
 npm run build
 # Deploy /dist to Netlify
@@ -71,6 +68,12 @@ npm run build
 
 ---
 
+## Improvements according to User Feedback
+
+Adjust the "Mobile Responsive iamge" for mobile view.
+Coomit link - https://github.com/Poorva-M/XML-WishingWell/commit/4023bcc68098cbb7189d780733c38db170fa8bd8
+
+---
 
 ## List of 5+ users wallet addresses:
 1. User 1: GAWOCI3JKKRFYYUJGOR7I3LZM6BMFCLUBN3EXBNLRISO6XWW3YDSTHDU
@@ -94,14 +97,6 @@ npm run build
 
 ## 📃Feedback Documentation:
 https://docs.google.com/spreadsheets/d/1tdBCdDTOIKKRID_ImXKi-buPrcxF89zrrdW_Abj5iKQ/edit?usp=sharing
-
----
-
-=======
-
-4. Freighter Wallet
-Install from https://www.freighter.app/
-
 
 ---
 
